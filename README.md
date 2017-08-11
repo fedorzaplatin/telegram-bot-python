@@ -7,4 +7,4 @@
 - [pyTelegramBotAPI library](https://github.com/eternnoir/pyTelegramBotAPI)
 - Linux (It will run on Windows but there will be some problems with using commands like /admin because it contains linux terminal commands)
 
-**Attention:** to make the bot work you have to fill the "token" value in `bot_config.ini`
+**Attention:** to make the bot work you have to fill the "token" and main admin's id values in `bot_config.ini`

@@ -2,11 +2,12 @@ help_message = "Commands list:\n" \
                "/help\n" \
                "/music - return some tunes :)\n" \
                "/quotes - return a random quote\n" \
+               "/get_id - return you ID\n" \
                "/status - return the bot's state"
 
-start_message = "Hi, I'am a bot which was wrote with using pyTelegramBotAPI library"
+start_message = "I'am a bot which was wrote with using pyTelegramBotAPI library"
 
-admin_command_error = 'You have used this command incorrectly\n' \
+admin_command_usage = 'You have used this command incorrectly\n' \
                       '/admin [ACTION]\n' \
                       'Available actions:\n' \
                       'stop server - will shut the server down\n' \
